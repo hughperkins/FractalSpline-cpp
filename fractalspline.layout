@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<!DOCTYPE CodeBlocks_layout_file>
+<CodeBlocks_layout_file>
+	<File name="CrossSection.cpp" open="1" top="1">
+		<Cursor position="860" topLine="0"/>
+	</File>
+	<File name="CrossSection.h" open="0" top="0">
+		<Cursor position="1061" topLine="18"/>
+	</File>
+	<File name="ExtrusionPath.cpp" open="1" top="0">
+		<Cursor position="36" topLine="0"/>
+	</File>
+	<File name="ExtrusionPath.h" open="0" top="0">
+		<Cursor position="1892" topLine="39"/>
+	</File>
+	<File name="LinearExtrusionPath.cpp" open="1" top="0">
+		<Cursor position="862" topLine="0"/>
+	</File>
+	<File name="LinearExtrusionPath.h" open="0" top="0">
+		<Cursor position="0" topLine="13"/>
+	</File>
+	<File name="LinearPrimitiveImpl.cpp" open="1" top="0">
+		<Cursor position="862" topLine="0"/>
+	</File>
+	<File name="LinearPrimitiveImpl.h" open="0" top="0">
+		<Cursor position="0" topLine="65"/>
+	</File>
+	<File name="Primitive.cpp" open="1" top="0">
+		<Cursor position="862" topLine="0"/>
+	</File>
+	<File name="Primitive.h" open="0" top="0">
+		<Cursor position="1311" topLine="9"/>
+	</File>
+	<File name="PrimitiveBox.cpp" open="1" top="0">
+		<Cursor position="862" topLine="0"/>
+	</File>
+	<File name="PrimitiveBox.h" open="0" top="0">
+		<Cursor position="0" topLine="10"/>
+	</File>
+	<File name="PrimitiveBoxImpl.cpp" open="1" top="0">
+		<Cursor position="862" topLine="0"/>
+	</File>
+	<File name="PrimitiveBoxImpl.h" open="0" top="0">
+		<Cursor position="0" topLine="12"/>
+	</File>
+	<File name="PrimitiveBoxInterface.h" open="0" top="0">
+		<Cursor position="0" topLine="6"/>
+	</File>
+	<File name="PrimitiveCylinder.cpp" open="1" top="0">
+		<Cursor position="862" topLine="0"/>
+	</File>
+	<File name="PrimitiveCylinder.h" open="1" top="0">
+		<Cursor position="0" topLine="0"/>
+	</File>
+	<File name="PrimitiveCylinderImpl.cpp" open="1" top="0">
+		<Cursor position="862" topLine="0"/>
+	</File>
+	<File name="PrimitiveCylinderImpl.h" open="0" top="0">
+		<Cursor position="0" topLine="19"/>
+	</File>
+	<File name="PrimitiveImpl.cpp" open="1" top="0">
+		<Cursor position="862" topLine="0"/>
+	</File>
+	<File name="PrimitiveImpl.h" open="0" top="0">
+		<Cursor position="0" topLine="42"/>
+	</File>
+	<File name="PrimitiveInterface.h" open="0" top="0">
+		<Cursor position="0" topLine="26"/>
+	</File>
+	<File name="PrimitivePrism.cpp" open="1" top="0">
+		<Cursor position="862" topLine="0"/>
+	</File>
+	<File name="PrimitivePrism.h" open="0" top="0">
+		<Cursor position="0" topLine="10"/>
+	</File>
+	<File name="PrimitivePrismImpl.cpp" open="1" top="0">
+		<Cursor position="862" topLine="0"/>
+	</File>
+	<File name="PrimitiveRing.cpp" open="1" top="0">
+		<Cursor position="862" topLine="0"/>
+	</File>
+	<File name="PrimitiveRingImpl.cpp" open="1" top="0">
+		<Cursor position="862" topLine="0"/>
+	</File>
+	<File name="PrimitiveTorus.cpp" open="1" top="0">
+		<Cursor position="862" topLine="0"/>
+	</File>
+	<File name="PrimitiveTorusImpl.cpp" open="1" top="0">
+		<Cursor position="862" topLine="0"/>
+	</File>
+	<File name="PrimitiveTube.cpp" open="1" top="0">
+		<Cursor position="862" topLine="0"/>
+	</File>
+	<File name="PrimitiveTubeImpl.cpp" open="1" top="0">
+		<Cursor position="862" topLine="0"/>
+	</File>
+	<File name="RendererCallbacksOpenGL.h" open="0" top="0">
+		<Cursor position="1030" topLine="0"/>
+	</File>
+	<File name="RotationalExtrusionPath.cpp" open="1" top="0">
+		<Cursor position="862" topLine="0"/>
+	</File>
+	<File name="RotationalPrimitiveImpl.cpp" open="1" top="0">
+		<Cursor position="862" topLine="0"/>
+	</File>
+	<File name="RotationalPrimitiveImpl.h" open="0" top="0">
+		<Cursor position="2601" topLine="35"/>
+	</File>
+	<File name="fsdllsymbols.h" open="0" top="0">
+		<Cursor position="1166" topLine="0"/>
+	</File>
+	<Expand folder="/Sources"/>
+	<Expand folder="/Headers"/>
+</CodeBlocks_layout_file>

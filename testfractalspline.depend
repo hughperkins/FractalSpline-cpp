@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1132071318 e:\dev\fsdev\testfractalspline.cpp
+	<windows.h>
+	<cstdlib>
+	<iostream>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<GL/glut.h>
+	"TextureLoader.h"
+	"PrimitiveBox.h"
+	"PrimitivePrism.h"
+	"PrimitiveCylinder.h"
+	"PrimitiveTorus.h"
+	"PrimitiveTube.h"
+	"PrimitiveRing.h"
+	"RendererCallbacks.h"
+	"RendererCallbacksOpenGL.h"
+	"RotationalExtrusionPath.h"
+	"LinearExtrusionPath.h"
+	"CrossSection.h"
+
+976641720 e:\dev\osmpdevkit-msvc\glut-3.7.6-bin\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1114251642 e:\dev\osmpdevkit-msvc\tartan\include\textureloader.h
+
+1115758104 e:\dev\fsdev\primitivebox.h
+	"Primitive.h"
+	"RendererCallbacks.h"
+
+1132066162 e:\dev\fsdev\primitive.h
+	"fsdllsymbols.h"
+	"PrimitiveInterface.h"
+
+1116454604 e:\dev\fsdev\fsdllsymbols.h
+
+1115758104 e:\dev\fsdev\primitiveinterface.h
+	"fsdllsymbols.h"
+
+1115700156 e:\dev\fsdev\renderercallbacks.h
+	<iostream>
+	"fsdllsymbols.h"
+
+1115758104 e:\dev\fsdev\primitiveprism.h
+	"Primitive.h"
+	"RendererCallbacks.h"
+
+1115758104 e:\dev\fsdev\primitivecylinder.h
+	"Primitive.h"
+	"RendererCallbacks.h"
+
+1115758104 e:\dev\fsdev\primitivetorus.h
+	"Primitive.h"
+	"RendererCallbacks.h"
+
+1115758104 e:\dev\fsdev\primitivetube.h
+	"Primitive.h"
+	"RendererCallbacks.h"
+
+1115758104 e:\dev\fsdev\primitivering.h
+	"Primitive.h"
+	"RendererCallbacks.h"
+
+1115700156 e:\dev\fsdev\renderercallbacksopengl.h
+	<GL/gl.h>
+	<GL/glu.h>
+	"fsdllsymbols.h"
+	"RendererCallbacks.h"
+
+1115685876 e:\dev\fsdev\rotationalextrusionpath.h
+	"fsdllsymbols.h"
+	"ExtrusionPath.h"
+
+1132066936 e:\dev\fsdev\extrusionpath.h
+	"fsdllsymbols.h"
+	"GLVector.h"
+	"GLMatrix.h"
+
+1112366116 e:\dev\osmpdevkit-msvc\mathgl-pp\include\glvector.h
+	<windows.h>
+	<GL/gl.h>
+	"../../config.h"
+	<cmath>
+	<iostream>
+	<cstring>
+
+1112365962 e:\dev\osmpdevkit-msvc\mathgl-pp\include\glmatrix.h
+	"GLVector.h"
+	<cstring>
+	<cassert>
+	<iostream>
+
+1115256460 e:\dev\fsdev\linearextrusionpath.h
+	"fsdllsymbols.h"
+	"ExtrusionPath.h"
+
+1132069126 e:\dev\fsdev\crosssection.h
+	<iostream>
+	"GLMatrix.h"
+	"GLVector.h"
+	"fsdllsymbols.h"
+	"ExtrusionPath.h"
+	"RendererCallbacks.h"
+
+1132070866 e:\dev\tartandev\textureloader.h
+	"tartandllsymbols.h"
+
+1132070920 e:\dev\tartandev\tartandllsymbols.h
+
+983676786 e:\dev\glutmingw32\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+

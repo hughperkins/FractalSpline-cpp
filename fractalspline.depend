@@ -1,0 +1,217 @@
+# depslib dependency file v1.0
+1115606114 e:\dev\fsdev\crosssection.cpp
+	<cstdlib>
+	<iostream>
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"RendererCallbacks.h"
+	"CrossSection.h"
+
+1115700156 e:\dev\fsdev\renderercallbacks.h
+	<iostream>
+	"fsdllsymbols.h"
+
+1116454604 e:\dev\fsdev\fsdllsymbols.h
+
+1115606114 e:\dev\fsdev\crosssection.h
+	<iostream>
+	"GLMatrix.h"
+	"GLVector.h"
+	"fsdllsymbols.h"
+	"ExtrusionPath.h"
+	"RendererCallbacks.h"
+
+1112365962 e:\dev\osmpdevkit-msvc\mathgl-pp\include\glmatrix.h
+	"GLVector.h"
+	<cstring>
+	<cassert>
+	<iostream>
+
+1112366116 e:\dev\osmpdevkit-msvc\mathgl-pp\include\glvector.h
+	<windows.h>
+	<GL/gl.h>
+	"../../config.h"
+	<cmath>
+	<iostream>
+	<cstring>
+
+1132066936 e:\dev\fsdev\extrusionpath.h
+	"fsdllsymbols.h"
+	"GLVector.h"
+	"GLMatrix.h"
+
+1132066954 e:\dev\fsdev\extrusionpath.cpp
+	<windows.h>
+	<iostream>
+	"ExtrusionPath.h"
+
+1115711004 e:\dev\fsdev\linearextrusionpath.cpp
+	<iostream>
+	"LinearExtrusionPath.h"
+
+1115256460 e:\dev\fsdev\linearextrusionpath.h
+	"fsdllsymbols.h"
+	"ExtrusionPath.h"
+
+1115758104 e:\dev\fsdev\linearprimitiveimpl.cpp
+	"LinearPrimitiveImpl.h"
+	<iostream>
+
+1115758104 e:\dev\fsdev\linearprimitiveimpl.h
+	"fsdllsymbols.h"
+	"PrimitiveImpl.h"
+	"LinearExtrusionPath.h"
+
+1115758104 e:\dev\fsdev\primitiveimpl.h
+	"fsdllsymbols.h"
+	"PrimitiveInterface.h"
+	"CrossSection.h"
+
+1115758104 e:\dev\fsdev\primitiveinterface.h
+	"fsdllsymbols.h"
+
+1132066192 e:\dev\fsdev\primitive.cpp
+	"Primitive.h"
+	"PrimitiveImpl.h"
+	<iostream>
+
+1132066162 e:\dev\fsdev\primitive.h
+	"fsdllsymbols.h"
+	"PrimitiveInterface.h"
+
+1115711004 e:\dev\fsdev\primitivebox.cpp
+	"PrimitiveBox.h"
+	"PrimitiveBoxImpl.h"
+	"RendererCallbacks.h"
+	<iostream>
+
+1115758104 e:\dev\fsdev\primitivebox.h
+	"Primitive.h"
+	"RendererCallbacks.h"
+
+1115758104 e:\dev\fsdev\primitiveboximpl.h
+	"LinearPrimitiveImpl.h"
+	"RendererCallbacks.h"
+	"PrimitiveBoxInterface.h"
+
+1115758104 e:\dev\fsdev\primitiveboxinterface.h
+	"PrimitiveInterface.h"
+	"RendererCallbacks.h"
+
+1115711004 e:\dev\fsdev\primitiveboximpl.cpp
+	"PrimitiveBoxImpl.h"
+	<iostream>
+
+1115758104 e:\dev\fsdev\primitivecylinder.cpp
+	"PrimitiveCylinder.h"
+	"PrimitiveCylinderImpl.h"
+	"RendererCallbacks.h"
+	<iostream>
+
+1115758104 e:\dev\fsdev\primitivecylinder.h
+	"Primitive.h"
+	"RendererCallbacks.h"
+
+1115758104 e:\dev\fsdev\primitivecylinderimpl.h
+	"fsdllsymbols.h"
+	"LinearPrimitiveImpl.h"
+
+1115758104 e:\dev\fsdev\primitivecylinderimpl.cpp
+	<iostream>
+	"PrimitiveCylinderImpl.h"
+
+1115711004 e:\dev\fsdev\primitiveimpl.cpp
+	"PrimitiveImpl.h"
+	<iostream>
+
+1115758104 e:\dev\fsdev\primitiveprism.cpp
+	"PrimitivePrism.h"
+	"PrimitivePrismImpl.h"
+	"RendererCallbacks.h"
+	<iostream>
+
+1115758104 e:\dev\fsdev\primitiveprism.h
+	"Primitive.h"
+	"RendererCallbacks.h"
+
+1115758104 e:\dev\fsdev\primitiveprismimpl.h
+	"fsdllsymbols.h"
+	"LinearPrimitiveImpl.h"
+
+1132067984 e:\dev\fsdev\primitiveprismimpl.cpp
+	"PrimitivePrismImpl.h"
+	<iostream>
+
+1115758104 e:\dev\fsdev\primitivering.cpp
+	"PrimitiveRing.h"
+	"PrimitiveRingImpl.h"
+	"RendererCallbacks.h"
+	<iostream>
+
+1115758104 e:\dev\fsdev\primitivering.h
+	"Primitive.h"
+	"RendererCallbacks.h"
+
+1115758104 e:\dev\fsdev\primitiveringimpl.h
+	"RotationalPrimitiveImpl.h"
+
+1115758104 e:\dev\fsdev\rotationalprimitiveimpl.h
+	"fsdllsymbols.h"
+	"PrimitiveImpl.h"
+	"RotationalExtrusionPath.h"
+
+1115685876 e:\dev\fsdev\rotationalextrusionpath.h
+	"fsdllsymbols.h"
+	"ExtrusionPath.h"
+
+1115758104 e:\dev\fsdev\primitiveringimpl.cpp
+	"PrimitiveRingImpl.h"
+	<iostream>
+
+1115758104 e:\dev\fsdev\primitivetorus.cpp
+	"PrimitiveTorus.h"
+	"PrimitiveTorusImpl.h"
+	"RendererCallbacks.h"
+	<iostream>
+
+1115758104 e:\dev\fsdev\primitivetorus.h
+	"Primitive.h"
+	"RendererCallbacks.h"
+
+1115758104 e:\dev\fsdev\primitivetorusimpl.h
+	"fsdllsymbols.h"
+	"RotationalPrimitiveImpl.h"
+	"RendererCallbacks.h"
+
+1115758104 e:\dev\fsdev\primitivetorusimpl.cpp
+	<iostream>
+	"GLVector.h"
+	"PrimitiveTorusImpl.h"
+
+1115758104 e:\dev\fsdev\primitivetube.cpp
+	"PrimitiveTube.h"
+	"PrimitiveTubeImpl.h"
+	"RendererCallbacks.h"
+	<iostream>
+
+1115758104 e:\dev\fsdev\primitivetube.h
+	"Primitive.h"
+	"RendererCallbacks.h"
+
+1115758104 e:\dev\fsdev\primitivetubeimpl.h
+	"RotationalPrimitiveImpl.h"
+
+1115758104 e:\dev\fsdev\primitivetubeimpl.cpp
+	"PrimitiveTubeImpl.h"
+	<iostream>
+
+1115706172 e:\dev\fsdev\rotationalextrusionpath.cpp
+	<iostream>
+	"RotationalExtrusionPath.h"
+
+1132068174 e:\dev\fsdev\rotationalprimitiveimpl.cpp
+	"RotationalPrimitiveImpl.h"
+	<iostream>
+

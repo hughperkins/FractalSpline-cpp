@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<!DOCTYPE CodeBlocks_project_file>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="1"/>
+	<Project>
+		<Option title="testfractalspline"/>
+		<Option makefile="Makefile"/>
+		<Option makefile_is_custom="0"/>
+		<Option compiler="0"/>
+		<Build>
+			<Target title="default">
+				<Option output="E:\dev\FSDev\testfractalspline.exe"/>
+				<Option working_dir="."/>
+				<Option object_output=".objs"/>
+				<Option deps_output=".deps"/>
+				<Option type="0"/>
+				<Option compiler="0"/>
+				<Option projectResourceIncludeDirsRelation="0"/>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add directory="..\osmpdevkit-msvc\mathgl-pp\include"/>
+			<Add directory="..\TartanDev"/>
+			<Add directory="..\GLUTMingw32\include"/>
+		</Compiler>
+		<Linker>
+			<Add library="..\osmpdevkit-msvc\tartan\lib\libtartan.lib"/>
+			<Add library="libfractalspline.a"/>
+			<Add library="..\..\bin\CodeBlocks\lib\libopengl32.a"/>
+			<Add library="..\..\bin\CodeBlocks\lib\libglu32.a"/>
+			<Add library="..\TartanDev\libtartan.a"/>
+			<Add library="..\GLUTMingw32\lib\libglut32.a"/>
+			<Add directory="..\..\bin\Microsoft Platform SDK for Windows XP SP2\Lib"/>
+			<Add directory="..\osmpdevkit-msvc\tartan\lib"/>
+			<Add directory="..\osmpdevkit-msvc\mathgl-pp\lib"/>
+			<Add directory="."/>
+			<Add directory="..\GLUTMingw32\lib"/>
+		</Linker>
+		<Unit filename="testfractalspline.cpp">
+			<Option compilerVar="CPP"/>
+			<Option target="default"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
