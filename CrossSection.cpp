@@ -14,7 +14,7 @@
 // License along with this library; if not, write to the Free Software
 // Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 //
-// You can contact me at hughperkins@gmail.com for more information.
+// You can contact me at hughperkins at gmail for more information.
 
 //#ifdef _WIN32
 //#include <windows.h>
